@@ -16,7 +16,7 @@ module.exports = {
 	//   channels and scrollbacks are available when they come back.
 	//
 	// This value is set to `false` by default.
-	public: false,
+	public: true,
 
 	// ### `host`
 	//
@@ -272,8 +272,8 @@ module.exports = {
 		nick: "thelounge%%",
 		username: "thelounge",
 		realname: "",
-		join: "#thelounge",
-		leaveMessage: "",
+		join: "#retromz",
+		leaveMessage: "left the chat",
 	},
 
 	// ### `lockNetwork`
